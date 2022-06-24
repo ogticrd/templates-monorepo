@@ -1,0 +1,21 @@
+[submodule "api-python-template"]
+	path = api-python-template
+	url = git@github.com:opticrd/api-python-template.git
+[submodule "api-php-template"]
+	path = api-php-template
+	url = git@github.com:opticrd/api-php-template.git
+[submodule "backend-js-template"]
+	path = backend-js-template
+	url = git@github.com:opticrd/backend-js-template.git
+[submodule "frontend-nextjs-template"]
+	path = frontend-nextjs-template
+	url = git@github.com:opticrd/frontend-nextjs-template.git
+[submodule "frontend-react-template"]
+	path = frontend-react-template
+	url = git@github.com:opticrd/frontend-react-template.git
+[submodule "nestjs-api-template"]
+	path = nestjs-api-template
+	url = git@github.com:opticrd/nestjs-api-template.git
+[submodule "odoo-modules-template"]
+	path = odoo-modules-template
+	url = git@github.com:opticrd/odoo-modules-template.git
